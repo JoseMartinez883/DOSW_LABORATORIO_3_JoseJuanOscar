@@ -7,7 +7,21 @@
 * Juan Diego Gaitan
 * Jose Martinez
 
-## Restaurante Elegido: Comida Italiana
+### CONCEPTO DEL RESTAURANTE: ITALIANO
+
+#### REGLAS DE NEGOCIO DEL SISTEMA
+
+**Reglas Generales:**
+1. **Bloqueo de Modificación:** Un pedido solo puede modificarse mientras esté en estado `RECIBIDO`. Una vez pasa a `EN PREPARACIÓN`, la cocina ya lo tomó y no admite cambios.
+2. **Disponibilidad por Inventario:** Un plato no puede ordenarse si alguno de sus ingredientes está agotado: el sistema lo marca como *no disponible* automáticamente.
+3. **Cuentas por Mesa:** Una mesa solo puede tener una cuenta abierta a la vez; la cuenta se cierra únicamente cuando el pago queda registrado.
+4. **Congelamiento de Precios:** El precio de un plato queda congelado en el momento en que se agrega al pedido, aunque después cambie en la carta.
+
+**Reglas Propias (Concepto Italiano):**
+1. **Límite de Toppings (Pizza):** Una pizza no puede llevar más de 5 toppings en total.
+2. **Construcción Estricta (Pizza/Pasta):** Todo plato personalizable debe tener obligatoriamente registrada una *masa base* (o tipo de pasta) y una *salsa primaria* antes de permitir la adición de cualquier topping.
+3. **Límite de Proteínas (Pasta):** Un plato de pasta puede contener un máximo de 2 proteínas en su base.
+4. **Límite de Salsas (Pasta):** Un plato de pasta puede tener un máximo de 3 tipos de salsas combinadas.
 
 ## Objetivo
 Aplicar herramientas de definición y análisis de requerimientos a partir de un caso de estudio práctico, y herramientas de planeación usando el framework Agile Scrum con Jira. El sistema que definan aquí será la base del proyecto de API que construirán durante el segundo corte.
