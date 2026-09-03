@@ -2,7 +2,7 @@
  
 ## 1. ÉPICA
  
-**TÍTULO** EPIC-01 — Gestión Integral de Pedidos y Operación de Cocina
+**TÍTULO** BELLA CIAO
  
 **Descripción:** Permitir el flujo completo del ciclo de vida de los pedidos en el restaurante italiano, abarcando desde la consulta de la carta digital y personalización de órdenes por el cliente o mesero, hasta la recepción, preparación en cocina y actualización de estados en tiempo real sin el uso de papel.
  
