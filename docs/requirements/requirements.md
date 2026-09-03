@@ -162,3 +162,27 @@ Existe un riesgo de condición de carrera entre el RF2 (Modificar ítems del ped
 
 **d) ¿Existe algún requerimiento que NO debería realizarse en el MVP? ¿Por qué?**
 El RF6 (Generar reporte de ventas del día) no es vital para esta iteración inicial. El objetivo del MVP es validar el ciclo transaccional puro (carta, pedido, cocina y caja). Desarrollar interfaces y motores de analítica consume tiempo que debe invertirse en estabilizar el núcleo del sistema. Mientras se construye la solución final, la extracción de estos datos puede gestionarse a través de consultas SQL directas a la base de datos por parte del equipo de ingeniería.
+
+
+# PARTE 4  — Mockups y Flujos de Navegación
+- Requerimiento escogido: Validar que una pizza o pasta personalizada no exceda el límite máximo de toppings.
+
+$1\;\;	Menú Principal!$
+
+![pantalla_1.png](../images/Mockup/pantalla_1.png)
+
+$2\;\;	Armador de Pizza$
+
+![pantalla_2.png](../images/Mockup/pantalla_2.png)
+
+$3\;\;	Carrito / Comanda$
+
+![pantalla_3.png](../images/Mockup/pantalla_3.png)
+
+$4\;\;	Mesas$
+
+![pantalla_4.png](../images/Mockup/pantalla_4.png)
+
+$5\;\;	Pedidos en curso$
+
+![pantalla_5.png](../images/Mockup/pantalla_5.png)
