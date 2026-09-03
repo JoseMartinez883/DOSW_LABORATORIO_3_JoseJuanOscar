@@ -165,6 +165,11 @@ El RF6 (Generar reporte de ventas del día) no es vital para esta iteración ini
 
 
 # PARTE 4  — Mockups y Flujos de Navegación
+
+- $LOGO\;\; BELLA \;\;CIAO$
+
+![LOGO_BELLACIAO.png](../images/mockup/LOGO_BELLACIAO.png)
+
 - Requerimiento escogido: Validar que una pizza o pasta personalizada no exceda el límite máximo de toppings.
 
 $1\;\;	Menú Principal!$
