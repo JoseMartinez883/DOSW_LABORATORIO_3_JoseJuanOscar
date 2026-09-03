@@ -8,9 +8,9 @@
  
 ---
  
-## 2. FEATURE 1: Armado y Personalización de Pedidos
+## 2. FEATURE 1: Permitir la personalización de un pedido
  
-**TÍTULO** FEAT-01 — Armado y gestión de órdenes en mesa y/o carta digital
+**TÍTULO** FEAT-01 — Permitir la personalización de un pedido
  
 **Descripción:** Capacidad que permite a los clientes y meseros consultar la carta con disponibilidad en tiempo real, configurar ítems respetando las reglas del concepto y modificar la orden mientras la cuenta se encuentre abierta.
  
@@ -47,13 +47,13 @@
 - **SUB-06** — Construir los controles interactivos de incremento, decremento y eliminación en la vista del resumen del pedido.
 ---
  
-## 3. FEATURE 2: Gestión e Insumos del Tablero de Cocina
+## 3. FEATURE 2: Permitir gestionar tablero digital de control
  
-**TÍTULO** FEAT-02 — Tablero digital de control y despacho en cocina
+**TÍTULO** FEAT-02 — Permitir gestionar tablero digital de control
  
 **Descripción:** Capacidad que otorga visibilidad completa al personal de cocina sobre las comandas entrantes y permite actualizar el estado operativo de los platos en tiempo real.
  
-### 📄 Historia de Usuario 3
+### Historia de Usuario 3
  
 **TÍTULO** STORY-03 — Visualización del tablero de comandas en tiempo real
  
@@ -69,7 +69,7 @@
 - **SUB-08** — Configurar la actualización en tiempo real hacia el tablero de cocina.
 - **SUB-09** — Diseñar la interfaz de tarjetas para cocina con tiempos transcurridos e indicadores visuales de alerta.
 - 
-### 📄 Historia de Usuario 4 (US-04)
+### Historia de Usuario 4
  
 **TÍTULO** STORY-04 — Transición y actualización de estados del pedido en cocina
  
