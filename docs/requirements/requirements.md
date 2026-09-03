@@ -9,7 +9,7 @@
 * **RF4:** Cambiar el estado de un pedido desde cocina (RECIBIDO $\rightarrow$ EN PREPARACIÓN $\rightarrow$ LISTO $\rightarrow$ ENTREGADO).
 * **RF5:** Cerrar la cuenta de una mesa y registrar el pago.
 * **RF6:** Generar el reporte de ventas del día por plato y por mesero.
-* **RF7 (Propio - Concepto Italiano):** Validar al momento de armar el pedido que una pizza o pasta personalizada no exceda el límite máximo de 5 toppings seleccionados.
+* **RF7 (Propio - Concepto Italiano):** Validar que una pizza o pasta personalizada no exceda el límite máximo de toppings.
 * **RF8 (Propio - Reglas del negocio):** Congelar el precio de un plato en el sistema en el instante exacto en que se agrega al pedido, ignorando modificaciones de precio posteriores en la carta.
 * **RF9 (Gestión de Carta):** Permitir al administrador desactivar un plato del menú sin borrar ni alterar su historial de ventas previo.
 * **RF10 (Control de Mesas):** Restringir la apertura de cuentas, garantizando que una mesa solo pueda tener una cuenta activa a la vez y exigiendo el registro del pago para liberarla.
