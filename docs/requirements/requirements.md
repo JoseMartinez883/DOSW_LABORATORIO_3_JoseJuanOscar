@@ -165,24 +165,32 @@ El RF6 (Generar reporte de ventas del día) no es vital para esta iteración ini
 
 
 # PARTE 4  — Mockups y Flujos de Navegación
+
+- $LOGO\;\; BELLA \;\;CIAO$
+
+![LOGO_BELLACIAO.png](../images/mockup/LOGO_BELLACIAO.png)
+
 - Requerimiento escogido: Validar que una pizza o pasta personalizada no exceda el límite máximo de toppings.
 
 $1\;\;	Menú Principal!$
 
-![pantalla_1.png](../images/Mockup/pantalla_1.png)
+![pantalla_1.png](../images/mockup/pantalla_1.png)
 
 $2\;\;	Armador de Pizza$
 
-![pantalla_2.png](../images/Mockup/pantalla_2.png)
+![pantalla_2.png](../images/mockup/pantalla_2.png)
 
 $3\;\;	Carrito / Comanda$
 
-![pantalla_3.png](../images/Mockup/pantalla_3.png)
+![pantalla_3.png](../images/mockup/pantalla_3.png)
 
 $4\;\;	Mesas$
 
-![pantalla_4.png](../images/Mockup/pantalla_4.png)
+![pantalla_4.png](../images/mockup/pantalla_4.png)
 
 $5\;\;	Pedidos en curso$
 
-![pantalla_5.png](../images/Mockup/pantalla_5.png)
+![pantalla_5.png](../images/mockup/pantalla_5.png)
+
+$Link \;\; mockup:$
+https://www.figma.com/make/v6UuTYNGWC23DYijzK4sDQ/Italian-Restaurant-POS-App?t=Gufiv148FRnApyBe-20&fullscreen=1
