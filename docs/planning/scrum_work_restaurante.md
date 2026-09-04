@@ -30,7 +30,9 @@
 - **SUB-01** — Crear el endpoint API REST para recibir y persistir el ítem configurado.
 - **SUB-02** — Implementar la validación en la capa de servicio que verifica la regla de negocio de máximo 5 toppings por pizza.
 - **SUB-03** — Diseñar el componente UI para selección de masa, salsa y control de casillas de toppings.
-- 
+
+## STORY POINTS 
+4
 
 ### Historia de Usuario 2
  
@@ -49,6 +51,9 @@
 - **SUB-05** — Implementar la regla de validación de estado en backend para permitir cambios únicamente si `estado == RECIBIDO`.
 - **SUB-06** — Construir los controles interactivos de incremento, decremento y eliminación en la vista del resumen del pedido.
 ---
+
+# STORY POINTS
+4
  
 ## 3. FEATURE 2: Permitir gestionar tablero digital de control
  
@@ -72,7 +77,10 @@
 - **SUB-07** — Crear el endpoint con filtros por estados activos
 - **SUB-08** — Configurar la actualización en tiempo real hacia el tablero de cocina.
 - **SUB-09** — Diseñar la interfaz de tarjetas para cocina con tiempos transcurridos e indicadores visuales de alerta.
-- 
+
+## STORY POINTS 
+5
+
 ### Historia de Usuario 4
  
 **TÍTULO** STORY-04 — Transición y actualización de estados del pedido en cocina
@@ -91,10 +99,17 @@
 - **SUB-12** — Implementar los botones de acción rápida.
 
 
+# STORY POINTS
+1
+
+
 
 # PLANNING POKER 
 
 ## LINK VIDEO
+
+
+
 
 ## Preguntas Reflexivas - Planning Poker (Parte 7)
 
