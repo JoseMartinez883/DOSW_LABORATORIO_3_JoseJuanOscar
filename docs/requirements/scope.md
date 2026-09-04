@@ -12,7 +12,7 @@ Actualmente, el establecimiento opera de manera completamente analógica, lo que
 *   **Aislamiento de datos financieros:** La caja registradora opera de forma independiente, haciendo imposible la generación automatizada de reportes de ventas por plato, por mesero o por franjas horarias.
 
 ## 3. Diagrama de Contexto
-![Diagrama de Contexto C4](../uml/DiagramaContextoC4.png)
+![Diagrama de Contexto C4](../uml/diagramaC4Contexto.png)
 
 
 **Justificación de los elementos del diagrama:**
