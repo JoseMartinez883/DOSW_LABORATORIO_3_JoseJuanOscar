@@ -89,3 +89,20 @@
 - **SUB-10** — Crear el endpoint API para procesar las transiciones de estado del pedido.
 - **SUB-11** — Registrar la auditoría de cada cambio de estado guardando el ID del usuario, fecha, hora y nuevo estado.
 - **SUB-12** — Implementar los botones de acción rápida.
+
+
+
+# PLANNING POKER 
+
+## LINK VIDEO
+
+## Preguntas Reflexivas - Planning Poker (Parte 7)
+
+1. **¿Cuál fue la mayor dificultad a la hora de estimar?**
+   - Separar el concepto de tiempo de esfuerzo y complejidad a utilidad y valor. Inicialmente tendíamos a pensar en cuántas horas tomaría desarrollar el tablero en tiempo real, en lugar de comparar su nivel de dificultad.
+
+2. **¿Fue fácil llegar a un consenso?**
+   - En historias simples el consenso fue directo.Sin embargo, en la historia del tablero de cocina en tiempo real existió debate inicial entre 5 y 8 puntos debido a la incertidumbre técnica de configurarla
+
+3. **¿Cómo resolvieron las discrepancias grandes?**
+   - Quien votó más alto explicó sus argumentos tecnicos no vistos por el equipo, lo que permitió escuchar y reconocer sus puntos de vista para llegar al consenso final.
