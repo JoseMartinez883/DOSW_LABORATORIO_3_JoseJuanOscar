@@ -108,7 +108,7 @@
 
 ## LINK VIDEO
 
-
+https://youtu.be/VxDNiYDtseE
 
 
 ## Preguntas Reflexivas - Planning Poker (Parte 7)
